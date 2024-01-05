@@ -69,3 +69,15 @@
 - Create websites and web-based applications that help businesses achieve their
 - Core Responsibilities: Design and Develop user-friendly websites
 - Troubleshoot issues to ensure optimal performance and security
+
+## Things to learn
+- Agile/Scrum: familiarity with Agile and Scrum methodologies in a collaborative working environment.
+- Development Tools: proficiency in using Git, Bitbucket, Jira, Confluence, and TeamCity for efficient project management and development.
+- API Design: experience in designing and implementing REST APIs.
+- Database Skills: knowledge of DBMS systems such as SQLite, PostgreSQL, etc.
+- Object-Oriented Design: excellent object-oriented design and programming skills, particularly in multi-threaded applications.
+
+## Other Skills
+Coding and Debugging: demonstrated expertise in coding and debugging, ensuring the delivery of robust and error-free software.
+Communication Skills: exceptional verbal and written communication skills are a must, as you will be working closely with overseas cross-functional teams.
+Self-Motivation: self-motivated individuals with a proven track record of excelling in fast-paced environments will thrive in this role.
