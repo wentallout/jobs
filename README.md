@@ -4,31 +4,46 @@
 
 ## Cloud Solutions Architect
 
-- Salary: $133K
+- Average Salary: $133K
 - Not interested
 
 ## Blockchain Engineer
 
-- Salary: $122K
+- Average Salary: $122K
 - Not interested
 
 ## Product Manager
 
-- Salary: $106K
-- Not interested
+- Average Salary: $106K
+- JD: Develops and executes successful software development strategies. Through market analysis, identify customer needs, develop launch plans and pricing models. Coordinate with cross-functional teams to ensure successful launch of new products
+- Create roadmaps that define long-term product objectives and features
+- Monitor industry trends
+- Work closely with stakeholders to ensure software success
+- Core Responsibilities: Identify customer needs through market research, create product launch and pricing models, formulate long-term product strategy through roadmap development
+- Key Skills: project management skills to coordinate across teams, understanding of software development processes, knowledge of user interface design principles.
 
 ## Cyber Security Engineer
 
-- Salary: $102K
-- Pretty cool, too bad there are no jobs
+- Average Salary: $102K
+- Pretty cool, too bad there are no jobs for you
 
 ## Software Engineer
 
 - Salary: $93K
+- Java, C++, Python, etc.
+- Understand IDEs and databases.
 
 ## Full-Stack Developer
 
 - Salary: $85K
+- Works with both the front-end and back-end of applications
+- Develop user interfaces and integrate them with server-side logic
+- Create databases
+- Manage user authentication
+- Maintain web application frameworks
+- Bridge the gap between front-end design and back-end systems to produce highly functional websites and applications
+- Core Responsibilities: develop front-end with HTML, JavaScript, CSS and other technologies. Create databases for data persistence, manage user authentication and authorization workflows.
+- Key Skills: Expertise in web application development frameworks such as React and Angular
 
 ## UX Designer
 
