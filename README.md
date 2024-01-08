@@ -81,3 +81,43 @@
 Coding and Debugging: demonstrated expertise in coding and debugging, ensuring the delivery of robust and error-free software.
 Communication Skills: exceptional verbal and written communication skills are a must, as you will be working closely with overseas cross-functional teams.
 Self-Motivation: self-motivated individuals with a proven track record of excelling in fast-paced environments will thrive in this role.
+
+
+## Questions to ask during interview
+
+Every time I interviewed a designer, one differentiating factor between a good and an excellent designer was the questions they asked. ✨
+
+Here are some examples:
+
+🖥 Technology
+- What tech stack does the company primarily use?
+- How does the company approach the adoption of new technology and stay updated with industry trends? Primarily adoption of AI.
+
+📈 Product Metrics
+- What is the north star metric of the product?
+- How are the main product metrics defined (activation rate, engagement rate, re
+- How well does the product do in the main product metrics (activation, retention, etc.) *if disclosable
+What upcoming features or improvements are planned for the product?
+
+🙌 Team Structure
+- What does the structure of the team you'll be part of look like?
+- Where does the team sit within the company structure?
+- How do designers collaborate with Devs and PMs?
+- What skill sets are represented in the design team?
+
+✏️ Design Maturity
+- How much influence does the design team have on overall product strategy?
+- What role do user research and usability testing play in design decisions?
+
+🎨 Design Process
+- What is the team's typical workflow or design process, from ideation to implementation?
+- How are design decisions made within the team?
+- What is the level of autonomy? 
+
+🚀 Personal and Professional Growth
+- What opportunities does the company provide in terms of your professional growth?
+- What does the career ladder look like?
+- How is feedback typically provided to support career growth?
+
+
+
